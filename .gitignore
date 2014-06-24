@@ -21,3 +21,13 @@
 *.i*86
 *.x86_64
 *.hex
+
+# Linux files
+*~
+
+# KDE directory preferences
+.directory
+
+# Swap Files #
+.*.kate-swp
+.swp.*
