@@ -1,4 +1,17 @@
 thinkgear-linux
 ===============
 
-Linux ThinkWear C Bluetooth
+Linux ThinkGear C Bluetooth
+
+
+## Compile
+To compile this code, you will need to install `libbluetooth-dev`
+```
+$ make
+```
+
+## Run
+```
+$ ./TestBluetooth
+```
+
